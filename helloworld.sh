@@ -1,3 +1,3 @@
 #!/bin/sh
-echo "Hello, world!"
+echo "Hello, world2!"
 echo "The time is $(date)."
